@@ -5,3 +5,4 @@ Issue 1:
   If wish to convert
   new leads
   into opportunities
+  ONLY if opportunity is NOT closed
