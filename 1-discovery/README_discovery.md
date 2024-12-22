@@ -5,3 +5,7 @@ Issue 1:
   If wish to convert
   new leads
   into opportunities
+<<<<<<< HEAD
+=======
+  ONLY if opportunity is NOT closed
+>>>>>>> current
